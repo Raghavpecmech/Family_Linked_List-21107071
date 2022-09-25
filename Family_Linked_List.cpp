@@ -117,9 +117,9 @@ int main(){
 // when you want to stop giving the input enter the name as -1 and age as -1 as shown in the below input
 /*
 custom input->
-father 30
-mother 29
-child1 3
-child2 1
+father 50
+mother 40
+brother 18
+sister 14
 -1 -1
 */
